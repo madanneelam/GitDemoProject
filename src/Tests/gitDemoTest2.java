@@ -7,8 +7,8 @@ public class gitDemoTest2
 	 String hungry = "yes";
 	 
 	 if(hungry=="yes")
-		 System.out.println("I am hungry....");
+		 System.out.println("I am really hungry....");
 	 else
-		 System.out.println("I am not hungry.....");
+		 System.out.println("I am not at all hungry.....");
  }
 }
